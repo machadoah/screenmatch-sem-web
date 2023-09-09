@@ -1,4 +1,4 @@
-package com.medium.machadoah.sreenmatch.service;
+package com.medium.machadoah.screenmatch.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,4 +1,4 @@
-package com.medium.machadoah.sreenmatch;
+package com.medium.machadoah.screenmatch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

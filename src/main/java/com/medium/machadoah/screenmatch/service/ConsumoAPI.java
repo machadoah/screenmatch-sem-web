@@ -1,4 +1,4 @@
-package com.medium.machadoah.sreenmatch.service;
+package com.medium.machadoah.screenmatch.service;
 
 import java.io.IOException;
 import java.net.URI;

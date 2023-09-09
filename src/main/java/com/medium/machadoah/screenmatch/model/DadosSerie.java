@@ -1,4 +1,4 @@
-package com.medium.machadoah.sreenmatch.model;
+package com.medium.machadoah.screenmatch.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
